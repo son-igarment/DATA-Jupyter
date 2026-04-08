@@ -1,0 +1,2 @@
+emnist-digits.mat filter=lfs diff=lfs merge=lfs -text
+emnist-letters.mat filter=lfs diff=lfs merge=lfs -text
